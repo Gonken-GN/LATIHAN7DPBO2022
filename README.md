@@ -1,5 +1,5 @@
 # LATIHAN7DPBO2022
->Saya Raden Fadhil A.A {2004305} mengerjakan LATIHAN5DPBO2022 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+>Saya Raden Fadhil A.A {2004305} mengerjakan LATIHAN7DPBO2022 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ### Hasil Eksekusi Program 
 - ### Add
 ![ScreenShots 1](https://github.com/Gonken-GN/LATIHAN7DPBO2022/blob/main/Screenshoots/Add.png)
