@@ -30,7 +30,7 @@ class Task extends DB{
 		// Proses sorting ascending secara normal
 		if($value == 1){
 			$query = "SELECT * from tb_to_do order by $string ASC";
-		// Proses sorting ascending dengan menambahkan bebe
+		// Proses sorting ascending dengan menambahkan beberapa kondisi seperti priorty, sorting berdasrkan queue priority dimana high-low bernilai 1-3 (sort pada saat queue desc namun hasil sorting yang akan ditampilkan berdasarkan input code user)
 		}else if($value == 3){
 			$query = "SELECT * from tb_to_do ORDER BY case when $string = 'High' then 3 when $string ='Medium' then 2 when $string = 'Low' then 1 end asc";
 		}
